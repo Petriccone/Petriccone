@@ -1,36 +1,158 @@
-# Hey, I'm Rafael Petriccone 👋
+<div align="center">
 
-**Digital Marketing Specialist & AI Automation Builder** based in Dublin, Ireland 🇮🇪
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d1a,50:1036cb,100:7c3aed&height=220&section=header&text=&fontSize=0" width="100%" />
 
-I combine marketing strategy with AI-powered tools to automate business growth. Currently building products that use LLMs, chatbots, and intelligent agents to solve real business problems.
+# Rafael Petriccone
 
-## 🔧 What I Work With
+**AI Automation Engineer**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D4A574?style=flat-square&logo=anthropic&logoColor=white)
-![Facebook Ads](https://img.shields.io/badge/Facebook_Ads-1877F2?style=flat-square&logo=meta&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
+I automate the workflows eating up your team's hours — AI agents, integrations<br/>and end-to-end systems shipped to production.
 
-## 🚀 Featured Projects
+[![Portfolio](https://img.shields.io/badge/petriccone.com-0a0d1a?style=for-the-badge&logo=vercel&logoColor=white)](https://petriccone.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-petriccone-a3a8907a/)
+[![Email](https://img.shields.io/badge/Email-1036cb?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:rafaelpietroni@icloud.com)
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**TelegramChat**](https://github.com/Petriccone/TelegramChat) | AI-powered Telegram assistant with persistent memory and shell access | TypeScript, Claude AI |
-| [**Botfy**](https://github.com/Petriccone/botfyLandpage) | SaaS platform for AI-powered digital employees for SMBs | TypeScript, Next.js |
-| [**TraderSmart**](https://github.com/Petriccone/TraderSmart) | Smart trading analysis and automation tool | TypeScript |
-| [**PostLinkedIn**](https://github.com/Petriccone/PostLinkedIn) | Automated LinkedIn content posting with AI | Python |
-| [**MatrixAds**](https://github.com/Petriccone/MatrixAds) | AI-driven advertising management platform | TypeScript |
-| [**NutriCompare**](https://github.com/Petriccone/NutriCompare) | Nutrition comparison app | TypeScript |
+</div>
 
-## 📫 Let's Connect
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelpetriccone/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rafael.petriccone@gmail.com)
+## What I build
 
----
+I design and ship AI automations end-to-end for businesses. Agents, RAG, multi-agent orchestration, integrations, and the production plumbing that keeps them alive.
 
-*Currently open to remote opportunities in Digital Marketing, Growth, and AI Automation.*
+```
+ 16+ shipped projects  ·  5+ years building automations  ·  24/7 agents in production
+```
+
+<br/>
+
+## Stack
+
+<table>
+<tr>
+<td width="140"><strong>AI & Agents</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-0a0d1a?style=flat-square" />
+<img src="https://img.shields.io/badge/Embeddings-0a0d1a?style=flat-square" />
+<img src="https://img.shields.io/badge/Vector_DBs-0a0d1a?style=flat-square" />
+<img src="https://img.shields.io/badge/Multi--agent-7c3aed?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td><strong>Backend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><strong>Channels</strong></td>
+<td>
+<img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Widgets-0a0d1a?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td><strong>Infra</strong></td>
+<td>
+<img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### Botfy `private`
+AI digital employees on WhatsApp, Telegram & Web Chat for European SMBs. 60+ active tenants, 250K+ messages/month.
+
+`Python` `Claude API` `RAG` `WhatsApp` `Telegram` `PostgreSQL`
+
+</td>
+<td width="50%">
+
+### Citely `private`
+AI Search Visibility platform — audit how answer engines see your brand and ship the fixes. Multi-engine probing across ChatGPT, Perplexity, Claude, Gemini.
+
+`FastAPI` `Next.js` `Supabase` `Multi-LLM` `RAG`
+
+</td>
+</tr>
+<tr>
+<td>
+
+### [LifeOS](https://github.com/Petriccone/lifeos-ai-v2)
+Multi-agent operating system for personal life. Domain-specific agents (planner, finance, health) sharing unified memory.
+
+`TypeScript` `Claude API` `Multi-agent`
+
+</td>
+<td>
+
+### [Sage Team](https://github.com/Petriccone/sage-team)
+Multi-agent AI team orchestration. Researcher, planner, executor, reviewer — with shared blackboard memory and visual control plane.
+
+`TypeScript` `Claude API` `Multi-agent` `Realtime UI`
+
+</td>
+</tr>
+<tr>
+<td>
+
+### [Expense Tracker](https://github.com/Petriccone/expense-tracker)
+Personal finance tracker with AI-assisted categorization. 96% accuracy, 5K+ transactions processed.
+
+`TypeScript` `Next.js` `AI categorization` `PostgreSQL`
+
+</td>
+<td>
+
+### [OpenClaude](https://github.com/Petriccone/openclaude)
+Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible APIs.
+
+`TypeScript` `Multi-provider` `CLI`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Petriccone&show_icons=true&hide_border=true&bg_color=0a0d1a&title_color=7c8cff&icon_color=7c3aed&text_color=c0c4d6&ring_color=1036cb&count_private=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petriccone&layout=compact&hide_border=true&bg_color=0a0d1a&title_color=7c8cff&text_color=c0c4d6&langs_count=6" height="170" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Petriccone&hide_border=true&background=0a0d1a&ring=1036cb&fire=7c3aed&currStreakLabel=c0c4d6&sideLabels=c0c4d6&currStreakNum=c0c4d6&sideNums=c0c4d6&dates=555a70" height="170" />
+
+<br/><br/>
+
+```
+Open to automation projects and senior AI engineering roles.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d1a,50:1036cb,100:7c3aed&height=120&section=footer" width="100%" />
+
+</div>
