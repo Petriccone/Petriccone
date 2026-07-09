@@ -146,17 +146,6 @@ Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, and 200+ mode
 
 <div align="center">
 
-<!-- ⚠️ STATS CARDS: os 2 abaixo usam a instância PÚBLICA do github-readme-stats,
-     que vive tomando rate-limit (erro 429) e quebra. Depois de subir a SUA
-     própria cópia na Vercel (ver passo a passo), troque
-     "github-readme-stats.vercel.app" pela SUA URL nas 2 linhas abaixo. -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=Petriccone&show_icons=true&hide_border=true&bg_color=0a0d1a&title_color=7c8cff&icon_color=7c3aed&text_color=c0c4d6&ring_color=1036cb&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petriccone&layout=compact&hide_border=true&bg_color=0a0d1a&title_color=7c8cff&text_color=c0c4d6&langs_count=6" height="170" />
-
-<br/><br/>
-
-<!-- ✅ STREAK: domínio trocado de herokuapp.com (morto) para streak-stats.demolab.com (oficial atual) -->
 <img src="https://streak-stats.demolab.com?user=Petriccone&hide_border=true&background=0a0d1a&ring=1036cb&fire=7c3aed&currStreakLabel=c0c4d6&sideLabels=c0c4d6&currStreakNum=c0c4d6&sideNums=c0c4d6&dates=555a70" height="170" />
 
 <br/><br/>
