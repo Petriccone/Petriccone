@@ -21,7 +21,7 @@ I automate the workflows eating up your team's hours — AI agents, integrations
 I design and ship AI automations end-to-end for businesses. Agents, RAG, multi-agent orchestration, integrations, and the production plumbing that keeps them alive.
 
 ```
- 16+ shipped projects  ·  5+ years building automations  ·  24/7 agents in production
+ 16+ shipped projects  ·  3+ years building automations  ·  24/7 agents in production
 ```
 
 <br/>
