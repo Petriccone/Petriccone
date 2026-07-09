@@ -153,7 +153,7 @@ Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, and 200+ mode
 <br/><br/>
 
 ```
-Open to automation projects and senior AI engineering roles.
+Open to automation projects. Let's talk!
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0d1a,50:1036cb,100:7c3aed&height=120&section=footer" width="100%" />
