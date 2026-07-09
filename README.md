@@ -149,6 +149,7 @@ Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, and 200+ mode
 
 <br/><br/>
 
+
 ```
 Open to automation projects and senior AI engineering roles.
 ```
