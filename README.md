@@ -84,6 +84,7 @@ I design and ship AI automations end-to-end for businesses. Agents, RAG, multi-a
 <td width="50%">
 
 ### Botfy `private`
+
 AI digital employees on WhatsApp, Telegram & Web Chat for European SMBs. 60+ active tenants, 250K+ messages/month.
 
 `Python` `Claude API` `RAG` `WhatsApp` `Telegram` `PostgreSQL`
@@ -92,6 +93,7 @@ AI digital employees on WhatsApp, Telegram & Web Chat for European SMBs. 60+ act
 <td width="50%">
 
 ### Citely `private`
+
 AI Search Visibility platform — audit how answer engines see your brand and ship the fixes. Multi-engine probing across ChatGPT, Perplexity, Claude, Gemini.
 
 `FastAPI` `Next.js` `Supabase` `Multi-LLM` `RAG`
@@ -102,6 +104,7 @@ AI Search Visibility platform — audit how answer engines see your brand and sh
 <td>
 
 ### [LifeOS](https://github.com/Petriccone/lifeos-ai-v2)
+
 Multi-agent operating system for personal life. Domain-specific agents (planner, finance, health) sharing unified memory.
 
 `TypeScript` `Claude API` `Multi-agent`
@@ -110,6 +113,7 @@ Multi-agent operating system for personal life. Domain-specific agents (planner,
 <td>
 
 ### [Sage Team](https://github.com/Petriccone/sage-team)
+
 Multi-agent AI team orchestration. Researcher, planner, executor, reviewer — with shared blackboard memory and visual control plane.
 
 `TypeScript` `Claude API` `Multi-agent` `Realtime UI`
@@ -120,6 +124,7 @@ Multi-agent AI team orchestration. Researcher, planner, executor, reviewer — w
 <td>
 
 ### [Expense Tracker](https://github.com/Petriccone/expense-tracker)
+
 Personal finance tracker with AI-assisted categorization. 96% accuracy, 5K+ transactions processed.
 
 `TypeScript` `Next.js` `AI categorization` `PostgreSQL`
@@ -128,6 +133,7 @@ Personal finance tracker with AI-assisted categorization. 96% accuracy, 5K+ tran
 <td>
 
 ### [OpenClaude](https://github.com/Petriccone/openclaude)
+
 Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, and 200+ models via OpenAI-compatible APIs.
 
 `TypeScript` `Multi-provider` `CLI`
@@ -140,15 +146,20 @@ Open-source coding-agent CLI for OpenAI, Gemini, DeepSeek, Ollama, and 200+ mode
 
 <div align="center">
 
+<!-- ⚠️ STATS CARDS: os 2 abaixo usam a instância PÚBLICA do github-readme-stats,
+     que vive tomando rate-limit (erro 429) e quebra. Depois de subir a SUA
+     própria cópia na Vercel (ver passo a passo), troque
+     "github-readme-stats.vercel.app" pela SUA URL nas 2 linhas abaixo. -->
+
 <img src="https://github-readme-stats.vercel.app/api?username=Petriccone&show_icons=true&hide_border=true&bg_color=0a0d1a&title_color=7c8cff&icon_color=7c3aed&text_color=c0c4d6&ring_color=1036cb&count_private=true" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Petriccone&layout=compact&hide_border=true&bg_color=0a0d1a&title_color=7c8cff&text_color=c0c4d6&langs_count=6" height="170" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Petriccone&hide_border=true&background=0a0d1a&ring=1036cb&fire=7c3aed&currStreakLabel=c0c4d6&sideLabels=c0c4d6&currStreakNum=c0c4d6&sideNums=c0c4d6&dates=555a70" height="170" />
+<!-- ✅ STREAK: domínio trocado de herokuapp.com (morto) para streak-stats.demolab.com (oficial atual) -->
+<img src="https://streak-stats.demolab.com?user=Petriccone&hide_border=true&background=0a0d1a&ring=1036cb&fire=7c3aed&currStreakLabel=c0c4d6&sideLabels=c0c4d6&currStreakNum=c0c4d6&sideNums=c0c4d6&dates=555a70" height="170" />
 
 <br/><br/>
-
 
 ```
 Open to automation projects and senior AI engineering roles.
