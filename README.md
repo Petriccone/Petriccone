@@ -35,7 +35,7 @@ I design and ship AI automations end-to-end for businesses. Agents, RAG, multi-a
 <img src="https://img.shields.io/badge/Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-0a0d1a?style=flat-square" />
 <img src="https://img.shields.io/badge/Embeddings-0a0d1a?style=flat-square" />
-<img src="https://img.shields.io/badge/Vector_DBs-0a0d1a?style=flat-square" />
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Multi--agent-7c3aed?style=flat-square" />
 </td>
 </tr>
@@ -47,6 +47,7 @@ I design and ship AI automations end-to-end for businesses. Agents, RAG, multi-a
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> 
 </td>
 </tr>
 <tr>
